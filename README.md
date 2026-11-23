@@ -2,7 +2,7 @@
 
 <p align="center">Escanea, actualiza, respalda y repara los drivers de Windows usando solo fuentes oficiales: Windows Update y los catálogos públicos de Lenovo, Dell y HP.</p>
 
-<p align="center"><a href="#cómo-se-usa">Cómo se usa</a> · <a href="#cómo-funciona-por-dentro">Cómo funciona</a> · <a href="#novedades">Novedades</a></p>
+<p align="center"><a href="https://sotomontes.com/#sotodrivers"><b>Ver en sotomontes.com</b></a> · <a href="#cómo-se-usa">Cómo se usa</a> · <a href="#cómo-funciona-por-dentro">Cómo funciona</a> · <a href="#novedades">Novedades</a></p>
 
 | Ficha técnica | |
 |---|---|
